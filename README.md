@@ -1,6 +1,6 @@
 ## Introduction
 
-Here I use data "Individual household electric power consumption Data Set" from the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine Learning Repository</a>. I'm trying to analyze the difference of household power consumption between weekday and weekend, and also get the main source for this whole electric power consumption. The main purpose of this project is to guide the electric company how to effectively supply electric energy for weekday and weekend, and also give people some advice about how to save energy.   
+Here I use data "Individual household electric power consumption Data Set" from the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine Learning Repository</a>. I'm trying to analyze the difference of household power consumption between weekday and weekend, and also get the main source for this whole electric power consumption. The main purpose of this project is to guide the electric company how to effectively supply electric energy for weekday and weekend. What's more, we know that The household energy usage has several different sources, such as the kitchen, the laundry room, the electric water-heater and an air-conditioner, and so on. After reviewing these parts, we can find out which part is the main source of the consumption, then people will get some idea about how to save some energy from the analysis.   
 
 * <b>Dataset</b>: <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip">Electric power consumption</a> [20Mb]
 
